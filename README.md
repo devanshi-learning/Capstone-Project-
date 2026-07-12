@@ -229,8 +229,12 @@ See [docs/limitations_and_responsible_use.md](docs/limitations_and_responsible_u
 ---
 
 ## Team Members
+Devanshi Yadav
+Kunal Mishra
+Ghanishka Tambe
+Pragya Sumbly
+Saumya Singh 
 
-_Add your team member names here before submission._
 
 ---
 
